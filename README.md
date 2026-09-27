@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Surya 👋
 
-<!--
-**NotSury/NotSury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Data Science) student at Monash University Malaysia, interested in Machine Learning, Deep Learning, and Data Science.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Machine learning and computer vision projects
+- Research software for multi-omics analysis
+- Android application development
+- Data and database systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python · PyTorch · R · SQL · Kotlin · Java · PyQt · MVVM · Room · Retrofit · AWS
+
+## Featured Projects
+- MedTrack Pro — Android medication management app
+- AMOGEL Desktop Application — research software for multi-omics analysis
+- 20-Class Image Classification — deep learning and transfer learning project
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/surya-vishnu-4b59b9328/)
