@@ -81,6 +81,8 @@ I'm a Computer Science student majoring in Data Science at Monash University Mal
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
       <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room">
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+      <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square" alt="Oracle SQL">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
     </td>
   </tr>
   <tr>
@@ -123,10 +125,10 @@ I'm a Computer Science student majoring in Data Science at Monash University Mal
       <p><sub><code>FastAPI</code> <code>SQLAlchemy</code> <code>SQLite</code> <code>React</code> <code>TypeScript</code> <code>pytest</code> <code>Vitest</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NotSury/Deep-Learning-Experiments">Deep Learning Experiments</a></h3>
-      <p>Neural network implementations and controlled training experiments, from a feed-forward network built on raw parameter tensors to a configurable residual CNN.</p>
-      <p><b>Highlight:</b> SGD, momentum and AdaGrad written as manual updates, and Sharpness-Aware Minimization implemented as a <code>torch.optim.Optimizer</code> subclass. Also compares Mixup, CutMix, One-vs-All loss and rotation self-supervision.</p>
-      <p><sub><code>PyTorch</code> <code>torchvision</code> <code>NumPy</code> <code>SciPy</code> <code>Matplotlib</code></sub></p>
+      <h3><a href="https://github.com/NotSury/big-rig-mover-database-system">BigRig Mover Database System</a></h3>
+      <p>Oracle database for a fictional heavy-haulage company, covering customers, quotes, jobs, staff, the truck and trailer fleet and truck servicing, with a MongoDB document model generated from it.</p>
+      <p><b>Highlight:</b> business rules are enforced in the schema, including a composite foreign key that only allows jobs on approved truck/trailer pairings. SQL/JSON functions build nested customer documents that are then loaded, queried and updated in MongoDB.</p>
+      <p><sub><code>Oracle SQL</code> <code>SQL/JSON</code> <code>MongoDB</code> <code>Data modelling</code> <code>SQL*Plus</code></sub></p>
     </td>
   </tr>
 </table>
